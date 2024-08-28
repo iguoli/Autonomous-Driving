@@ -3,7 +3,9 @@ Knowledge related to the field of autonomous driving
 
 ## Concepts
 
-### [SOP](What does start of production in the automotive industry mean?)
+### SOP (Start of Production)
+
+Reference: [What does start of production in the automotive industry mean?](https://www.quora.com/What-does-start-of-production-in-the-automotive-industry-mean)
 
 The **Start Of Production** in the automotive industry refers to the beginning of manufacturing of a new vehicle model or a significant update to an existing model. This typically involves the setup and calibration of production lines, testing of manufacturing processes, and the actual assembly of the first units of the vehicle. It marks a critical milestone in the development of a new product and is often accompanied by media announcements and celebrations within the company.
 
